@@ -1,16 +1,14 @@
-## Hi there 👋
+##  Emna Bahar
+Étudiante Ingénieure en Informatique @ ESPRIT
+🔐 En formation Cybersécurité | 🌐 Réseaux & Systèmes
 
-<!--
-**Emna-Bahar/Emna-Bahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Compétences
+- Réseaux : VLAN, OSPF, NAT, DHCP, DNS
+- Systèmes : Linux
+- Dev : PHP, HTML/CSS, C++, Python
+- Outils : GNS3, Cisco Packet Tracer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Certifications
+- Introduction to Cybersecurity — Cisco
+- Getting Started with Deep Learning — NVIDIA
+- DALF C1 — Français
